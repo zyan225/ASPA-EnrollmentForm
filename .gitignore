@@ -33,3 +33,5 @@ application/config/database.php
 
 # CI/CD
 pull.php
+
+/git-deploy/
